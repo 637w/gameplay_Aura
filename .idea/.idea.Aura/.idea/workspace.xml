@@ -12,9 +12,6 @@
   <component name="ChangeListManager">
     <list default="true" id="07386421-e323-46df-a275-3ac1af0c3867" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Aura/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aura/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEditor.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEditor.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Aura/Private/AuraCharacterBase.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Aura/Public/AuraCharacterBase.h" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,7 +176,7 @@
       <updated>1733197203505</updated>
       <workItem from="1733197207036" duration="15000" />
       <workItem from="1733283507022" duration="530000" />
-      <workItem from="1733285599884" duration="306000" />
+      <workItem from="1733285599884" duration="6935000" />
     </task>
     <servers />
   </component>
